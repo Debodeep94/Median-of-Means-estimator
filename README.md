@@ -1,0 +1,2 @@
+# Median-of-Means-estimator:
+ In general while dealing with an estimation problem, the sample mean is considered to be one of the most robust statistic for estimation. In the light of light tailed distribution, in most the cases the sample mean performs as the optimal option. However, in thecase of heavy tailed distribution(s), the median of means (MoM) estimator performs better than the sample mean
